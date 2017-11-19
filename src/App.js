@@ -19,6 +19,12 @@ class App extends Component {
         <div>
           <Corpus/>
         </div>
+        <div>
+          <p>
+            Created by <a href="http://shubhanshu.com">Shubhanshu Mishra</a><br/>
+            Source code: <a href="https://github.com/napsternxg/document-term-weighing">https://github.com/napsternxg/document-term-weighing</a>
+          </p>
+        </div>
       </div>
     );
   }
